@@ -1,3 +1,9 @@
+# Deprecated
+
+This repository is no longer maintained. Please visit this repository:
+[Current plugin repository](https://gitlab.xfce.org/panel-plugins/xfce4-windowck-plugin/)
+
+
 # xfce4-windowck-plugin
 
 Xfce panel plugin which allows to put the maximized window title and windows buttons on the panel.
@@ -23,12 +29,6 @@ See [this page](https://goodies.xfce.org/projects/panel-plugins/xfce4-windowck-p
 
 # Installation
 
-#### Arch Linux
-
-For Arch Linux users [AUR package](https://aur.archlinux.org/packages/xfce4-windowck-plugin/) is available
-
-#### Other Linux distributions
-
 * Install dependencies:
   - For debian/ubuntu see debian/control folder and follow debian packaging guidlines
 * Generate common makefiles:
@@ -40,7 +40,3 @@ For Arch Linux users [AUR package](https://aur.archlinux.org/packages/xfce4-wind
   make
   sudo make install
   ```
-
-# How to report bugs?
-
-Bugs should be reported right to this [GitHub page](https://github.com/nikitabobko/xfce4-windowck-plugin-bobko-mod/issues)
